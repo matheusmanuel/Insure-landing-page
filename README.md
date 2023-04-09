@@ -30,8 +30,8 @@ Seus usuários devem poder:
 
 ### Links
 
-- URL da solução: [Link da solução]()
-- URL do site ao vivo: [demonstração](https://matheusmanuel.github.io/Shortly-URL-shortening-API-Challenge/)
+- URL da solução: [Link da solução](https://www.frontendmentor.io/solutions/insure-landing-page-DUcarT1D__)
+- URL do site ao vivo: [demonstração](https://matheusmanuel.github.io/Insure-landing-page/)
 
 
 ### Construído com
