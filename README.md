@@ -1,4 +1,4 @@
-# Frontend Mentor - Solução de desafio de API de encurtamento de URL em breve
+# Insure landing page
 
 Esta é uma solução para o [desafio Insure landing page on Frontend Mentor](https://www.frontendmentor.io/challenges/insure-landing-page-uTU68JV8/hub). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
 
